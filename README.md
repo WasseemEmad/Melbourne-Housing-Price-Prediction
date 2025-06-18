@@ -13,9 +13,9 @@ This project analyzes the [Melbourne Housing Dataset](https://www.kaggle.com/dat
 
 ## 📊 Model Performance
 
-| Model                               | MSE               | RMSE        | R² Score |
+| Model                              | MSE               | RMSE        | R² Score |
 |------------------------------------|-------------------|-------------|----------|
-| Linear Regression (Raw Data)       | Very High         | Very High   | Low      |
+| Linear Regression (Raw Data)       | 148,073,446,105   | 384,803.13  |  0.6167  |
 | Linear Regression (Cleaned Data)   | 116,390,523,263   | 341,160.55  | 0.6708   |
 | Stacked Model (Cleaned Data)       | 66,969,863,686    | 258,785.36  | 0.8106   |
 
